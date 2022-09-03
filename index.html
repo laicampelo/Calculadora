@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculadora</title>
+    <link rel="stylesheet" href="../css/style.css">
+</head>
+
+<body>
+    <section class="background">
+
+        <div style="overflow-x:auto;">
+            <p id="resultado" class="background"></p>
+        </div>
+
+        <div id="botoes">
+            <button class="cinza" onclick="pegarBotao('delete')">AC</button>
+            <button class="cinza" onclick="pegarBotao('raiz')">√</button>
+            <button class="cinza" onclick="pegarBotao('%')">%</button>
+            <button class="laranja" onclick="pegarBotao('/')">/</button>
+            <button onclick="pegarBotao(7)">7</button>
+            <button onclick="pegarBotao(8)">8</button>
+            <button onclick="pegarBotao(9)">9</button>
+            <button class="laranja" onclick="pegarBotao('*')">x</button>
+            <button onclick="pegarBotao(4)">4</button>
+            <button onclick="pegarBotao(5)">5</button>
+            <button onclick="pegarBotao(6)">6</button>
+            <button class="laranja" onclick="pegarBotao('-')">-</button>
+            <button onclick="pegarBotao(1)">1</button>
+            <button onclick="pegarBotao(2)">2</button>
+            <button onclick="pegarBotao(3)">3</button>
+            <button class="laranja" onclick="pegarBotao('+')">+</button>
+            <button id="zero" onclick="pegarBotao('0')">0</button>
+            <button onclick="pegarBotao('.')">.</button>
+            <button type="submit" class="laranja" onclick="pegarBotao('=')">=</button>
+        </div>
+
+    </section>
+    <script src="../js/script.js"></script>
+</body>
+</html>
