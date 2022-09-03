@@ -25,7 +25,7 @@
 * Selecionar os números e operadores;
 * Selecionar o botão de resposta;
 * Visualizar a resposta; 
-<a href="https://github.com/Laihanne/Calculadora.git">Teste o projeto</a>
+<a href="https://marvelous-tulumba-cd255c.netlify.app">Teste o projeto</a>
 <img src="./img/calculadora.png">
 
 
@@ -55,7 +55,7 @@ $ index.html ou server live(plugin do vscode)
 * JavaScript
 
 ### Autor
-Feito com ❤️ por - Lai Campelo Exibir as perguntas  👋🏽 Entre em contato!
+Feito com ❤️ por - Lai Campelo   👋🏽 Entre em contato!
 
 email:laihanne.campelo@gmail.com - 
 ### Licença
