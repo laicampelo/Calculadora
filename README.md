@@ -24,7 +24,8 @@
 ### Demostração da Aplicação
 * Selecionar os números e operadores;
 * Selecionar o botão de resposta;
-* Visualizar a resposta;
+* Visualizar a resposta; 
+<a href="https://github.com/Laihanne/Calculadora.git">Teste o projeto</a>
 <img src="./img/calculadora.png">
 
 
